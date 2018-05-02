@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\obj\Debug\Lab5Dice.csprojResolveAssemblyReference.cache
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\obj\Debug\Lab5Dice.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\bin\Debug\Lab5Dice.exe.config
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\bin\Debug\Lab5Dice.exe
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\bin\Debug\Lab5Dice.pdb
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\obj\Debug\Lab5Dice.exe
+C:\Users\Tim\source\repos\Lab5Dice\Lab5Dice\obj\Debug\Lab5Dice.pdb
